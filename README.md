@@ -26,6 +26,7 @@ This repository contains a collection of resources (including the papers and dat
   - [ICLR: International Conference on Learning Representations](papers/papers_by_conferences_and_journals/ICLR.md)
   - [AAAI: Association for the Advancement of Artificial Intelligence](papers/papers_by_conferences_and_journals/AAAI.md)
   - [IJCAI: International Joint Conference on Artificial Intelligence](papers/papers_by_conferences_and_journals/IJCAI.md)
+  - [MM: ACM Multimedia Conference](papers/papers_by_conferences_and_journals/MM.md)
   - [BMVC: British Machine Vision Conference](papers/papers_by_conferences_and_journals/BMVC.md)
   - [ICPR: International Conference on Pattern Recognition](papers/papers_by_conferences_and_journals/ICPR.md)
   - [ICDAR: International Conference on Document Analysis and Recognition](papers/papers_by_conferences_and_journals/ICDAR.md)
