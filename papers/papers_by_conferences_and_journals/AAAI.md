@@ -1,3 +1,16 @@
+## 2019
+**Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition**  
+Hui Li, Peng Wang, Chunhua Shen, Guyu Zhang  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1811.00751)\]\[text-recognition\]
+
+**Scene Text Recognition from Two-Dimensional Perspective**  
+Minghui Liao, Jian Zhang, Zhaoyi Wan, Fengming Xie, Jiajun Liang, Pengyuan Lyu, Cong Yao, Xiang Bai  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1809.06508)\]\[text-recognition\]
+
+**Scene Text Detection with Supervised Pyramid Context Network**  
+Enze Xie1, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1811.08605)\]\[text-detection\]
+
 ## 2018
 **SqueezedText: A Real-Time Scene Text Recognition by Binary Convolutional Encoder-Decoder Network**  
 Zichuan Liu, Yixing Li, Fengbo Ren, Wang Ling Goh, Hao Yu  

@@ -1,3 +1,8 @@
+## 2018
+**ASTER: An Attentional Scene Text Recognizer with Flexible Rectification**  
+Baoguang Shi, Mingkun Yang, Xinggang Wang, Pengyuan Lyu, Cong Yao, and Xiang Bai  
+\[[TPAMI](https://ieeexplore.ieee.org/document/8395027)\]\[[code](https://github.com/bgshih/aster)\]\[text-recognition\]
+
 ## 2016
 **Learning Spatial-Semantic Context with Fully Convolutional Recurrent Network for Online Handwritten Chinese Text Recognition**  
 Zecheng Xie, Zenghui Sun, Lianwen Jin, Hao Ni, Terry Lyons  

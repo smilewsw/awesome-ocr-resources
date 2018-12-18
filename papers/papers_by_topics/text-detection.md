@@ -1,3 +1,8 @@
+## 2019
+**Scene Text Detection with Supervised Pyramid Context Network**  
+Enze Xie1, Yuhang Zang, Shuai Shao, Gang Yu, Cong Yao, Guangyao Li  
+\[AAAI\]\[[arXiv](https://arxiv.org/abs/1811.08605)\]\[text-detection\]
+
 ## 2018
 **Single Shot Scene Text Retrieval**  
 Lluıs Gomez, Andres Mafla, Marcal Rusinol, Dimosthenis Karatzas  
